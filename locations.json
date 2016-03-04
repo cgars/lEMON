@@ -364,7 +364,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mruashik",
         "size": 1,
         "iconname":"city"
       },
@@ -499,7 +498,7 @@
     {
       "type": "Feature",
       "properties": {
-        "tittle": "Mruashik",
+        "title": "Mruashik",
         "size": 3,
         "iconname":"city"
       },
