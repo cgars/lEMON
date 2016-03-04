@@ -364,6 +364,7 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Mruashik",
         "size": 1,
         "iconname":"city"
       },
