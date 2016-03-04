@@ -1,0 +1,680 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thera",
+        "size": 8,
+        "iconname":"capital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4498291015625,
+          36.40359962073253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sky Point",
+        "size": 4,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.364540100097656,
+          44.563566525601935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shiann Stadt",
+        "size": 5,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0777587890625,
+          47.502358951968596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yosherese",
+        "size": 3,
+        "iconname":"village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.957550048828125,
+          47.07947452634481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ido",
+        "size": 1,
+        "iconname":"village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.28851318359375,
+          48.65105695744785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jerris",
+        "size": 3,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7080078125,
+          50.44351305245805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iopos",
+        "size": 3,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.509765625,
+          53.93021986394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kratas",
+        "size": 3,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8646240234375,
+          50.331436330838834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ishkarat",
+        "size": 2,
+        "iconname":"tskrangcity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0791015625,
+          52.77950854257623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "K'tenshin",
+        "size": 2,
+        "iconname":"tskrangcity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.737548828125,
+          47.22329888685773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Travar",
+        "size": 4,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.79248046875,
+          45.90529985724799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Batertown",
+        "size": 4,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.4459228515625,
+          52.72880745669853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vistrimon",
+        "size": 2,
+        "iconname":"tskrangcity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7308349609375,
+          48.81048112472012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Urupa",
+        "size": 3,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.97454833984375,
+          46.34503163945875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Syrtis",
+        "size": 3,
+        "iconname":"tskrangcity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.711669921874998,
+          56.36525013685606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wolkenstadt",
+        "size": 3,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.443687438964846,
+          47.063807821686446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kaselm",
+        "size": 2,
+        "iconname":"milcamp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40057373046875,
+          48.37449671682332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mirla",
+        "size": 1,
+        "iconname":"village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.537902832031248,
+          48.41063064048539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Surn",
+        "size": 1,
+        "iconname":"village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43851089477539,
+          48.29415798558204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Monjo",
+        "size": 1,
+        "iconname":"village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.310722351074219,
+          48.33343022631068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fort Leschgo",
+        "size": 2,
+        "iconname":"milcamp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.044574737548828,
+          48.9442639802859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Blort",
+        "size": 2,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.754196166992186,
+          50.76550798723758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shtiwart",
+        "size": 2,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.225822448730469,
+          51.81423963824184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Schlachtfahrer",
+        "size": 1,
+        "iconname":"trollclan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.66998291015625,
+          53.579461493732296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 1,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04901123046875,
+          53.35710874569601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wehrdonner",
+        "size": 1,
+        "iconname":"trollclan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.803192138671875,
+          53.27465777647781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kathedrale der Passionen",
+        "size": 3,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0357666015625,
+          50.984369903296745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Baldurs Hain",
+        "size": 4,
+        "iconname":"ruins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.251861572265625,
+          51.57493586884008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Durna",
+        "size": 2,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.293548583984375,
+          52.71549904109217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Penne Xi",
+        "size": 2,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.916580200195312,
+          51.995450991191746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "See Huanyank",
+        "size": 2,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.92962646484375,
+          50.939392513903876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rietdach",
+        "size": 1,
+        "iconname":"village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.857971191406249,
+          49.84506757956392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Minaranth",
+        "size": 3,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.828201293945312,
+          49.851708942674435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "Mruashik",
+        "size": 3,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.425827026367188,
+          49.31975131240293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stennshinosh",
+        "size": 3,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.183242797851562,
+          49.11568076076249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rondll",
+        "size": 3,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.027862548828125,
+          49.255257474803116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stoneskater",
+        "size": 1,
+        "iconname":"trollclan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.374427795410156,
+          47.425764580393924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Icebearer",
+        "size": 1,
+        "iconname":"trollclan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.817657470703125,
+          47.152836226396374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bloodshield",
+        "size": 1,
+        "iconname":"trollclan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.647798538208008,
+          46.98195051084747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Crystalprism",
+        "size": 1,
+        "iconname":"trollclan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.832592010498045,
+          46.800646994424035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Greyclaw",
+        "size": 1,
+        "iconname":"trollclan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.067153930664062,
+          47.04298970379676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fort insert Name",
+        "size": 2,
+        "iconname":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.22479248046875,
+          48.97841431722483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Immersangs",
+        "size": 1,
+        "iconname":"windlings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.48870849609375,
+          49.26421999734763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zinngiesser",
+        "size": 1,
+        "iconname":"windlings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.06524658203125,
+          48.211862417203214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Festung unter dem See",
+        "size": 1,
+        "iconname":"ruins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.37719590000006,		
+          47.5657078
+        ]
+      }
+    },
+    {"type": "Feature","properties": {"title": "See Sinnsal","size": 8,"iconname":"empty"},"geometry": {"type": "Point","coordinates": [9.4537353515625,47.60616304386874]}}
+  ]
+}
