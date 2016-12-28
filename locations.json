@@ -1,6 +1,20 @@
 {
   "type": "FeatureCollection",
   "features": [
+    {"type": "Feature",
+     "properties": {
+       "title": "seltsame-icebaerer-markierung",
+       "size": 8,
+       "iconname":"ruins"
+     },
+     "geometry": {
+       "type": "Point",
+       "coordinates": [
+         9.479827880859375,
+         47.25313563224421
+       ]
+     }
+    },
     {
       "type": "Feature",
       "properties": {
